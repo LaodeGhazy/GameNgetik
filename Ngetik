@@ -1,0 +1,11 @@
+<!DOCTYPEhtml>
+<html>
+  <head>
+    <title>Mouth</title>
+    <link rel='stylesheet' type='text/css' href='NgetikStyle.css' />
+  </head>
+  <body>
+    <div id="game"></div>
+  </body>
+  <script src="Ngetik.js"></script>
+</html>
